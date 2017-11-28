@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Enelia - Tableau de bord.ipa</key>
+	<array>
+		<dict>
+			<key>architectures</key>
+			<array>
+				<string>armv7</string>
+				<string>arm64</string>
+			</array>
+			<key>certificate</key>
+			<dict>
+				<key>SHA1</key>
+				<string>0571BA5BBACC732B32F84217B0D46A198B5FC2C1</string>
+				<key>dateExpires</key>
+				<string>28/11/2018</string>
+				<key>type</key>
+				<string>iOS Distribution</string>
+			</dict>
+			<key>entitlements</key>
+			<dict>
+				<key>application-identifier</key>
+				<string>MY8PHL5JR7.fr.enelia.dashboard</string>
+				<key>aps-environment</key>
+				<string>production</string>
+				<key>com.apple.developer.team-identifier</key>
+				<string>MY8PHL5JR7</string>
+				<key>get-task-allow</key>
+				<false/>
+			</dict>
+			<key>name</key>
+			<string>Enelia - Tableau de bord.app</string>
+			<key>profile</key>
+			<dict>
+				<key>UUID</key>
+				<string>2a4d6587-e2c8-4085-a25c-a52c21a9eaf4</string>
+				<key>name</key>
+				<string>Enelia Dashboard Distribution Profile</string>
+			</dict>
+			<key>team</key>
+			<dict>
+				<key>id</key>
+				<string>MY8PHL5JR7</string>
+				<key>name</key>
+				<string>ENVOXOO</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>

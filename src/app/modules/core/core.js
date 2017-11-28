@@ -6,9 +6,9 @@
     .controller('App', AppController)
     .factory('jQuery', jQueryService)
     .factory('$exceptionHandler', exceptionHandler)
-    .constant('API_SERVER', 'http://api-enelia.ddns.net:8080')
+    .constant('API_SERVER', 'https://api-enelia.ddns.net')
     .constant('UPLOAD_SERVER', 'http://192.168.0.32:8888')
-    .constant('AUTH_SERVER', 'http://api-enelia.ddns.net:8080')
+    .constant('AUTH_SERVER', 'https://api-enelia.ddns.net')
     .constant('ID_CLIENT', 'eneliaWeb')
   ;
 
